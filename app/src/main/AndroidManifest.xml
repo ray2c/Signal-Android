@@ -978,7 +978,7 @@
 
     <activity android:name=".profiles.manage.EditProfileActivity"
               android:theme="@style/TextSecure.LightTheme"
-              android:windowSoftInputMode="stateVisible|adjustResize"
+              android:windowSoftInputMode="adjustResize"
               android:exported="false"/>
 
     <activity
